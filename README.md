@@ -9,7 +9,7 @@
 * The next two lines calculate s as the sum of r multiplied by 2 raised to power k and then adding it back into s so that it can be used later on in calculations.
 * Lastly, q decreases from 10 down to 1 before looping back up again because there are still more iterations left until we reach zero (0).
   
-1. [Decimal](Decimal.c)
+2. [Decimal](Decimal.c)
 * Use math library.
 * The code starts by asking the user to enter a decimal number.
 * The code then loops through the binary digits of that number, which are in reverse order.
